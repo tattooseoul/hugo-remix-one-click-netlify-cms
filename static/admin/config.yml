@@ -72,6 +72,7 @@ collections:
                 { label: "c3", value: "c3" },
                 { label: "c4", value: "c4" },
                 { label: "c5", value: "c5" },
+
               ] },
               { label: "Description", name: "description", widget: text , i18n: true },
             ] }
@@ -184,6 +185,7 @@ collections:
           { label: "c3", value: "c3" },
           { label: "c4", value: "c4" },
           { label: "c5", value: "c5" },
+          
         ]},
         { label: "Cover Image", name: "image", widget: "image" , media_folder: "/static/media" , public_folder: "/media" },
         { label: "Summary", name: "summary", widget: "text" },
@@ -205,6 +207,8 @@ collections:
           { label: "c3", value: "c3" },
           { label: "c4", value: "c4" },
           { label: "c5", value: "c5" },
+          { label: "c6", value: "c6" },
+
         ]},
         { label: "Cover Image", name: "image", widget: "image" , media_folder: "/static/media" , public_folder: "/media" },
         { label: "Summary", name: "summary", widget: "text" },
